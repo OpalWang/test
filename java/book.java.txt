@@ -1,0 +1,8 @@
+class book{
+ private String name;
+ private String type;
+ private String author;
+ private float price;
+ 
+ public sell(){};
+}
